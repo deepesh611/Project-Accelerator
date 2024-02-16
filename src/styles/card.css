@@ -1,0 +1,26 @@
+.offers{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1vmax;
+}
+
+.figure figcaption{
+  background-color: rgb(243, 248, 248);
+  padding : 10px 25px 10px 25px;
+  margin: -3vmax 0 0 0;
+  position: relative;
+  
+
+}
+
+.offers img{
+  margin: 0 -1.2vmax;
+  transition: all 0.5s;
+  width: fit-content;
+}
+
+.offers img:hover{
+  box-shadow: 6px 6px 15px rgba(53, 53, 53, 0.363);
+}
+

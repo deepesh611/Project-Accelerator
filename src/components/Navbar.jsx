@@ -2,7 +2,7 @@ import React from 'react'
 import "../styles/Navbar.css"
 // import data from "../data/data.json"
 
-export const Navbar = () => {
+const Navbar = () => {
     return (
         <div className="nav">
             <div className="logo">
@@ -15,3 +15,5 @@ export const Navbar = () => {
         </div>
     )
 }
+
+export {Navbar}

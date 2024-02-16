@@ -1,0 +1,25 @@
+{
+    "offer": [
+    {
+          "url": "https://in.event.mi.com/in/offer-with-mi",
+          "image": "https://imgs.search.brave.com/A0T3RwpGQnuOIfNbtVdEJ2ev_zKA2A_oOGZeBo49eJo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bGVhZGVyYmlvZ3Jh/cGh5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8wOS9z/aHpyZnhnLTc1MHgz/NzUucG5n",
+          "description": "In the bustling streets of Mumbai, Aman Gupta embarked",
+          "width": "398",
+              "height": "230"
+      },
+    {
+          "url": "https://in.event.mi.com/in/work-from-home-essentials",
+          "image": "https://imgs.search.brave.com/KKg4IkSQdUEo8eTh_VRe_jud-wXYri1YawAys1nkTrU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMueW91cnN0b3J5/LmNvbS9jcy8yLzk2/ZWFiZTkwMzkyMjEx/ZWI5M2YxODMxOWU4/YzA3YTc0L0ltYWdl/ZGRnbC0xNzAyNjM2/NzU4MTc3LmpwZz93/PTExNTImZm09YXV0/byZhcj0yOjEmbW9k/ZT1jcm9wJmNyb3A9/ZmFjZXM",
+            "description": "Ronnie Screwvala, a visionary entrepreneur and philanthropist,",
+            "width": "398",
+              "height": "230"
+    },
+    {
+          "url": "https://xiaomi.giveindia.org/",
+          "image": "https://i02.appmifile.com/761_operator_in/27/04/2021/09489d6a77f96111372718a551d2799d.png?width=398&height=230",
+            "description": "Donate to India's COVID-19 relief fund",
+            "width": "398",
+              "height": "230"
+    }
+    ]
+}
